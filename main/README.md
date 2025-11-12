@@ -1,7 +1,3 @@
-# RideShare - Proyecto Integrado de Patrones de Diseño
-
-## Descripción General
-Este proyecto implementa un sistema simplificado de categorías de vuelos desde Argentina hacia otros países, demostrando la integración de cuatro patrones de diseño fundamentales.
 
 ## Estructura del Proyecto
 
